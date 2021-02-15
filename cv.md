@@ -5,5 +5,5 @@
 4. HTML; CSS; BEM; SCSS; Flexbox; Avocode; Adobe Photoshop
 5. Му works: https://dmitriy-violentiy.github.io/book/; https://dmitriy-violentiy.github.io/axit/; https://dmitriy-violentiy.github.io/_office/;
 6. My experience is 1 freelance job (http://maxlend.by/);
-7. Higher education. Belarusian National Technical University.
+7. Higher education. Belarusian National Technical University
 8. Reading English
